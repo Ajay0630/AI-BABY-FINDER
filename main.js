@@ -3,7 +3,7 @@ var objects = [];
 document.getElementById("status").innerHTML = "Status: Detecting...";
 
 function preload() {
-    alarm = loadSound("alarm.mp3");
+    alarm = loadSound("AI-BABY-FINDER/alarm.mp3");
 }
 
 function setup() {
